@@ -1,8 +1,9 @@
 INSTRUCTION: WRITE YOUR RESPONSE BELOW EACH QUESTION. GOOD LUCK!
 1) What is your name?
-
+Sharifa
 2) What is your husband's name?
-
+Hayatu
 3) Are you comfortable using git and github? (Yes or No)
-
+Yes
 4) Write anything that is challenging for you in this course:
+Command line.
